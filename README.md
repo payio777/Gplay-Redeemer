@@ -4,8 +4,7 @@ Automated Tool That Redeems discord trails from gsuite accounts
 
 
 # download link 
-- https://mega.nz/file/CjYlAILa#JqBuqiAOZ9uUGAPHU2MSHWKUhwBY_pdETQDNmVdziTM
-
+- https://mega.nz/file/GzJxAIBB#IyFFHFokXCCUfzANVxA_Get8EktCyrg4VA3wXndWEGA
 # How To use ? 
 
 - Download Ldplayer9 Set Your instance to 1920x1080 (tablet) , download discord 309.11 From Apkmirror , Enabled adb and root in ldplayer settings
