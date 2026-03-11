@@ -3,7 +3,8 @@ Automated Tool That Redeems discord trails from gsuite accounts
 
 
 
-
+# download link 
+- https://mega.nz/file/CjYlAILa#JqBuqiAOZ9uUGAPHU2MSHWKUhwBY_pdETQDNmVdziTM
 
 # How To use ? 
 
