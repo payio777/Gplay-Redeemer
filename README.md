@@ -27,31 +27,5 @@ Automated Tool That Redeems discord trails from gsuite accounts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ltc - ltc1qzgs0fnep0zzj2ejga9m7x8jra8q3934x2ns4gu
-Sol - DvSzWxSkgnFSzf499wpEtuT44JRSvV45obQoWwDKGRJW
-btc - bc1qzgs0fnep0zzj2ejga9m7x8jra8q3934xw023sv
-eth - 0x9aaC27E889c651Cf1D9D82429CbFC7a72D423A9d
-usdt(eth/bsc/poly) - 0x9aaC27E889c651Cf1D9D82429CbFC7a72D423A9d 
+ty , my ltc - ltc1qzgs0fnep0zzj2ejga9m7x8jra8q3934x2ns4gu
 
